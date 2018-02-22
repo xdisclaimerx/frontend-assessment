@@ -1,0 +1,30 @@
+.banner {
+	width: 100%;
+	display: block;
+	background: url('http://via.placeholder.com/1440x650') no-repeat;
+	background-size: contain;
+	height: 100%;
+	margin-bottom: 40px;
+}
+
+.banner h1, h3 {
+	color: #fff;
+	text-align: center;
+}
+
+.banner-text {
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+
+.btn-default {
+	border-radius: 1rem;
+	border: 2px solid #000;
+}
+
+a.btn.btn-default {
+	color: #000;
+	text-transform: uppercase;
+	font-size: .8rem;
+	padding: .3rem 2rem .3rem 2rem;
+}
